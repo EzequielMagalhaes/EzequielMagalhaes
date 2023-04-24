@@ -52,10 +52,10 @@
 ### 👾 Skills:
 - Web development with Javascript and Bootstrap. 
   * Knowledge in NodeJs.
+  * Knowledge in Typescript
 - Knowledge in ReactJs framework.
   * CRA
   * Vite
-  * Typescript
 - Knowledge of relational and non-relational databases.
   * MySQL
   * MongoDB
