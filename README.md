@@ -41,21 +41,21 @@
 
 ### 💻Programming languages:
 - C
+- Java
 - HTML
 - CSS
 - Javascript
 - Typescript
 - ReactJs
 - NodeJs
-- Java
 
 ### 👾 Skills:
 - Web development with Javascript and Bootstrap. 
   * Knowledge in NodeJs.
   * Knowledge in Typescript
-- Knowledge in ReactJs framework.
-  * CRA
-  * Vite
+  * Knowledge in ReactJs framework.
+    - CRA
+    - Vite
 - Knowledge of relational and non-relational databases.
   * MySQL
   * MongoDB
