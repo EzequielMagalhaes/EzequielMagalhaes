@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm Ezequiel Magalhaes 👋</h1>
-<h3 align="center">An assiduous backend student</h3>
+<h3 align="center">An assiduous student of programming</h3>
 </br>
 
 <div align="center">
