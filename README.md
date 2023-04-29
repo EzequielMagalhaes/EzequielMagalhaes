@@ -75,9 +75,10 @@
   - Email: zekes_243@hotmail.com
 
 </br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=EzequielMagalhaes&label=Profile%20views&color=0e75b6&style=flat" alt="ezequielmagalhaes" /> </p>
-
 <!--
+*CONTADOR DE VIEWS DO PERFIL*
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=EzequielMagalhaes&label=Profile%20views&color=0e75b6&style=flat" alt="ezequielmagalhaes"/></p>
+
 **EzequielMagalhaes/EzequielMagalhaes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
