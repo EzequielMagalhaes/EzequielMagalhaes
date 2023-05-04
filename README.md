@@ -73,8 +73,11 @@
 
 ### 📫Contact:
   - Email: zekes_243@hotmail.com
-
 </br>
+<p align="center">
+  <img src="gif/pacman_game.gif" alt="Animated gif pacman game" height="282px" width="637">
+</p>
+
 <!--
 *CONTADOR DE VIEWS DO PERFIL*
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=EzequielMagalhaes&label=Profile%20views&color=0e75b6&style=flat" alt="ezequielmagalhaes"/></p>
