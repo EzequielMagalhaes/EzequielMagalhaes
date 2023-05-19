@@ -31,7 +31,7 @@
 ##
 <h3 align="left">Connect with me:</h3>
 <div> 
-  <a href = "mailto:zekes_243@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
+  <a href = "mailto:zekiel.dev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/zekiell/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 <br/>
@@ -72,7 +72,7 @@
 - And I'm looking for my first professional opportunity.
 
 ### 📫Contact:
-  - Email: zekes_243@hotmail.com
+  - Email: zekiel.dev@gmail.com
 </br>
 <!--
 *JOGO DO PACMAN*
