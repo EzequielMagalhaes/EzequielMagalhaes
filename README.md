@@ -51,14 +51,15 @@
 - Typescript
 - ReactJs
 - NodeJs
+- Python
 
 ### 👾 Skills:
 - Web development with Javascript and Bootstrap. 
   * Knowledge in NodeJs.
   * Knowledge in Typescript
   * Knowledge in ReactJs framework.
-    - CRA
     - Vite
+    - CRA
 - Knowledge of relational and non-relational databases.
   * MySQL
   * MongoDB
@@ -66,7 +67,7 @@
 ### ⚡ Next Goals:
 - Software development internship.
 - Improve my knowledge and master my skills in Java.
-- In the future work with back-end development using Java and JavaScript.
+- In the future work with fullstack development using Java and JavaScript.
 
 ### 📜My history:
 - I'm Ezequiel, since I was a little boy I've been very curious and eager to learn more about this world of technology that covers many areas.
