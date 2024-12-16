@@ -24,10 +24,10 @@
   <img align="center" alt="ASP.NET" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original.svg"/>
   <img align="center" alt="MySQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
   <img align="center" alt="MongoDB" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
-  <!-- PostgreeSQL <img align="center" alt="PostgreeSQL" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/postgresql/postgresql-original.svg"/> -->
+  <!-- PostgreeSQL <img align="center" alt="PostgreeSQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"/> -->
   <img align="center" alt="Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
   <!-- GITLAB <img align="center" alt="GitLab" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg"/> --> 
-  <img align="center" alt="npm" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/npm/npm-original-wordmark.svg"/>
+  <img align="center" alt="npm" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg"/>
   <img align="center" alt="Docker" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
   <!-- LINUX <img align="center" alt="Linux" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/> -->
 </div>
@@ -84,16 +84,14 @@
 ### 📫Contact:
   - Email: zekiel.dev@gmail.com
 </br>
-
+</br>
+<!--*CONTADOR DE VIEWS DO PERFIL*-->
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=EzequielMagalhaes&label=Profile%20views&color=0e75b6&style=flat" alt="ezequielmagalhaes"/></p>
+<!--
 *JOGO DO PACMAN*
 <p align="center">
-  <img src="gif/pacman_game.gif" alt="Animated gif pacman game" height="282px" width="637">
+  <img src="gif/pacman_game.gif" alt="Animated gif pacman game" height="255px" width="610px">
 </p>
-
-<!--
-*CONTADOR DE VIEWS DO PERFIL*
-  <p align="left"> <img src="https://komarev.com/ghpvc/?username=EzequielMagalhaes&label=Profile%20views&color=0e75b6&style=flat" alt="ezequielmagalhaes"/></p>
-
 **EzequielMagalhaes/EzequielMagalhaes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
@@ -104,5 +102,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-<a href="https://www.instagram.com/zekiell._/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
--->
+<a href="https://www.instagram.com/zekiell._/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> -->
