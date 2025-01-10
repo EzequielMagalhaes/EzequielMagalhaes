@@ -17,13 +17,14 @@
   <img align="center" alt="Bootsrap" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg"/>
   <img align="center" alt="Javascript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
   <img align="center" alt="Typescript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"/>
-  <img align="center" alt="ReactJs" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"/>
   <img align="center" alt="NodeJs" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"/>
+  <img align="center" alt="ReactJs" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"/>
+  <img align="center" alt="VueJs" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg"/>
   <img align="center" alt="Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
-  <img align="center" alt="C#" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"/>
-  <img align="center" alt="ASP.NET" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original.svg"/>
-  <img align="center" alt="MySQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
-  <img align="center" alt="MongoDB" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
+  <!-- <img align="center" alt="C#" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"/> -->
+  <!-- <img align="center" alt="ASP.NET" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original.svg"/> -->
+  <img align="center" alt="MySQL" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
+  <img align="center" alt="MongoDB" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" />
   <!-- PostgreeSQL <img align="center" alt="PostgreeSQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"/> -->
   <img align="center" alt="Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
   <!-- GITLAB <img align="center" alt="GitLab" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg"/> --> 
@@ -41,25 +42,19 @@
 <br/>
 
 <h1> About me </h1> 
-<h3> 📚Computer Science - UDF </h3>
+<h3> 📚 Computer Science - UDF </h3>
 
-### 💻Programming languages:
-- C
+### 💻 Programming languages:
 - Java
-- HTML
-- CSS
 - Javascript
 - Typescript
-- ReactJs
 - NodeJs
+- ReactJs
+- VueJs
 - Python
-- C#
-- ASP.NET
 
 ### 👾 Skills:
 - Application development with Java.
-- Web development with C#.
-  * Knowledge in ASP.NET.
 
 - Web development with Javascript and Bootstrap. 
   * Knowledge in NodeJs.
@@ -67,6 +62,10 @@
   * Knowledge in ReactJs framework.
     - Vite
     - CRA
+  * Knowledge in VueJs framework.
+    - Vuetify
+    - Vuex
+    - Vue Router
 - Knowledge of relational and non-relational databases.
   * MySQL
   * MongoDB
@@ -76,16 +75,16 @@
 - Improve my knowledge and master my skills in Java.
 - In the future work with fullstack development using Java and JavaScript.
 
-### 📜My history:
+### 📜 My history:
 - I'm Ezequiel, since I was a little boy I've been very curious and eager to learn more about this world of technology that covers many areas.
 - I'm a computer science student, currently in my seventh semester. Where I had contact with some programming languages.
 - I'm currently studying to improve my knowledge in programming languages and my programming logic.
 
-### 📫Contact:
+### 📫 Contact:
   - Email: zekiel.dev@gmail.com
 </br>
 </br>
-<!--*CONTADOR DE VIEWS DO PERFIL*-->
+<!--*CONTADOR DE VIEWS DO PERFIL*
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=EzequielMagalhaes&label=Profile%20views&color=0e75b6&style=flat" alt="ezequielmagalhaes"/></p>
 <!--
 *JOGO DO PACMAN*
